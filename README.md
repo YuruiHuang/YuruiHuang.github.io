@@ -1,3 +1,3 @@
 # 我的学术主页
 
-**My howepage:** [http://zhouxiuze.com/](https://yuruihuang.github.io/)
+**My howepage:** [http://yuruihuang.github.io/](https://yuruihuang.github.io/)
